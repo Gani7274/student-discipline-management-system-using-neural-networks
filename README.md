@@ -2,8 +2,6 @@
 
 Small description about the project like one below
 The objective of this study is to design and develop a robust Neural Network-Based Student Disciplinary Management System for educational institutions.
-![image](https://github.com/Gani7274/student-discipline-management-system-using-neural-networks/assets/105532515/bca05028-cbdb-41e0-8384-4a5730bd5f28)
-
 
 ## About
 <!--Detailed Description about the project-->
